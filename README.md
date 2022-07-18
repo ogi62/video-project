@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
+This is a practice Angular project from freeCodeCamp.org
+This is a link : https://www.youtube.com/watch?v=LiOzTQAz13Q
+It is an amazing course from SLOBODAN GAJIC : https://www.youtube.com/channel/UCBu5ulO4d-d47lAVybpRTkw
+In this project he use http and angular material.
+And this is a link for API ... https://rapidapi.com/accujazz/api/rawg-video-games-database/details
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
